@@ -1,1 +1,6 @@
-cout << "something";
+
+
+print "something";
+print "something 1";
+print "something 2";
+print "something 3";
