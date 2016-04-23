@@ -2,12 +2,12 @@
 This program was produced by the
 CodeWizardAVR V1.25.7 beta 5 Professional
 Automatic Program Generator
-© Copyright 1998-2007 Pavel Haiduc, HP InfoTech s.r.l.
+Â© Copyright 1998-2007 Pavel Haiduc, HP InfoTech s.r.l.
 http://www.hpinfotech.com
 
 Project : 
 Version : 
-Date    : 04.06.2010
+Date    : 04.04.2016
 Author  : F4CG                            
 Company : F4CG                            
 Comments: 
